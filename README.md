@@ -220,3 +220,4 @@ clarity/
 | GET    | `/api/dashboard`           | Get dashboard summary data      | Yes  |
 
 # clarity
+# clarity
