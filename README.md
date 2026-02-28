@@ -218,9 +218,3 @@ clarity/
 | DELETE | `/api/transactions/:id`    | Delete a transaction            | Yes  |
 | POST   | `/api/transactions/categorize` | AI categorize a description| Yes  |
 | GET    | `/api/dashboard`           | Get dashboard summary data      | Yes  |
-
-# clarity
-# clarity
-# clarity
-# clarity
-# clarity
